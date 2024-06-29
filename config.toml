@@ -1,6 +1,6 @@
 base_url = "https://main.vitamin2001.co.in/"
 title = "VITAmin"
-description = "tabi is a fast, lightweight, and modern Zola theme with multi-language support, optional JavaScript, and a perfect Lighthouse score."
+description = "This is a personal Blog cum Portfolio website for vitamin2001 using Zola framework and Tobi Theme."
 author = "Vitamin2001"
 generate_feed = true
 compile_sass = true
